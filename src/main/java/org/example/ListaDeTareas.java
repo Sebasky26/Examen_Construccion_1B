@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ListaDeTareas {
-    protected List<Tarea> tareas;
+    public List<Tarea> tareas;
 
     public ListaDeTareas() {
         tareas = new ArrayList<>();
